@@ -1,1 +1,1 @@
-# Java_core_course
+# MyJavaCourse
